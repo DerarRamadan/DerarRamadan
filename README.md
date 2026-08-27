@@ -8,7 +8,7 @@
   </p>
 
   <!-- Main Identity Banner -->
-  <h1>DRAR RAMADAN (ضِرار رمضان)</h1>
+  <h1>DERAR RAMADAN (ضِرار رمضان)</h1>
   <p><b>Senior Full-Stack & Cross-Platform Systems Engineer &nbsp;·&nbsp; AI & Computer Vision Researcher</b></p>
   <p><i>Head of Programming Department @ Ministry of Agriculture · Lead Architect @ Asas Suite</i></p>
 
@@ -194,6 +194,6 @@ Active **M.Sc. AI Researcher** at the *Libyan Academy for Postgraduate Studies* 
 
 <br/>
 
-<sub><i>© 2026 Drar Ramadan. Crafted with precision, architectural rigor, and bilingual care.</i></sub>
+<sub><i>© 2026 Derar Ramadan. Crafted with precision, architectural rigor, and bilingual care.</i></sub>
 
 </div>
