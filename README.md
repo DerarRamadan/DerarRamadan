@@ -143,7 +143,7 @@ Active **M.Sc. AI Researcher** at the *Libyan Academy for Postgraduate Studies* 
 | **Muhaka Virtual Testing** | WebGL Engineering Simulation & Risk Analysis | React · Vue.js · WebGL · Fastify · Docker | [muhaka.ly ↗](https://muhaka.ly/) |
 | **CADR Clinical Manager** | Clinical Workflow & Real-Time Sync | React · Vite · Tailwind · Zustand · Netlify | [cadr1.netlify.app ↗](https://cadr1.netlify.app/) |
 | **Sunny Retail Storefront** | Headless E-Commerce & Optimistic Checkout | Next.js · React · Tailwind · Stripe API | [sunny-store.netlify.app ↗](https://sunny-fenglisu-f9badf.netlify.app/) |
-| **First Goal Analytics** | Real-Time Sports Analytics & Timelines | Vue 3 · Nuxt · Firebase · Edge Caching | [firstgoal-ly.netlify.app ↗](https://firstgoal-ly.netlify.app/) |
+| **First Goal** | Company Landing Page · Sports Media Brand | Vue 3 · Nuxt · Firebase · Edge Caching | [firstgoal-ly.netlify.app ↗](https://firstgoal-ly.netlify.app/) |
 | **Coastal Trails** | Offline-First Geospatial Mapping PWA | React · Leaflet · Mapbox GL · Service Worker | [coastaltrails.netlify.app ↗](https://coastaltrails.netlify.app/) |
 
 ---
