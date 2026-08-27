@@ -12,7 +12,7 @@
   <!-- Interactive Badges with Portfolio Palette (#C85A32, #1E1E1E, #6B655C) -->
   <p>
     <a href="https://derar.ly"><img src="https://img.shields.io/badge/PORTFOLIO-derar.ly-C85A32?style=for-the-badge&logo=safari&logoColor=white" alt="Portfolio Website" /></a>
-    <a href="mailto:zzxxccz908@gmail.com"><img src="https://img.shields.io/badge/EMAIL-DIRECT_CONTACT-1E1E1E?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+    <a href="mailto:dev@derar.ly"><img src="https://img.shields.io/badge/EMAIL-dev@derar.ly-1E1E1E?style=for-the-badge" alt="Email" /></a>
     <a href="https://github.com/DerarRamadan"><img src="https://img.shields.io/badge/STATUS-AVAILABLE_FOR_HIRE-10B981?style=for-the-badge" alt="Status" /></a>
     <a href="https://github.com/DerarRamadan"><img src="https://img.shields.io/badge/LOCALE-AR_/%20EN_BILINGUAL-6B655C?style=for-the-badge" alt="Bilingual" /></a>
   </p>
@@ -182,12 +182,20 @@ Active **M.Sc. AI Researcher** at the *Libyan Academy for Postgraduate Studies* 
 ```
 📍 Location: Tripoli, Libya · Remote Worldwide
 🌐 Website: https://derar.ly
-✉️ Email: zzxxccz908@gmail.com
+✉️ Email: dev@derar.ly
 💬 Languages: Arabic (Native) · English (Professional Full Working Proficiency)
 ```
 
+**Direct routing** — every inbox on `derar.ly` has a job:
+
+| Address | Reach me here for |
+|:---|:---|
+| [`dev@derar.ly`](mailto:dev@derar.ly) | Code reviews, issues, pull requests, technical collaboration |
+| [`research@derar.ly`](mailto:research@derar.ly) | Papers, Vision-First RAG, arXiv & academic correspondence |
+| [`contact@derar.ly`](mailto:contact@derar.ly) | Formal inquiries, contracts, professional correspondence |
+
 [![Website](https://img.shields.io/badge/derar.ly-Visit_Portfolio-C85A32?style=for-the-badge&logo=googlechrome&logoColor=white)](https://derar.ly)
-[![Email](https://img.shields.io/badge/zzxxccz908@gmail.com-Send_Message-1E1E1E?style=for-the-badge&logo=gmail&logoColor=white)](mailto:zzxxccz908@gmail.com)
+[![Email](https://img.shields.io/badge/dev@derar.ly-Send_Message-1E1E1E?style=for-the-badge)](mailto:dev@derar.ly)
 [![GitHub](https://img.shields.io/badge/DerarRamadan-Follow_on_GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/DerarRamadan)
 
 <br/>
