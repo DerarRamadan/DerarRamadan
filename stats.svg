@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="495" height="195" viewBox="0 0 495 195" role="img">
+  <rect x="0.5" y="0.5" width="494" height="194" rx="6" fill="#F5F2EB" stroke="#E2DDD5"/>
+  <text x="25" y="34" font-family="'Segoe UI', -apple-system, BlinkMacSystemFont, 'Inter', Arial, sans-serif" font-size="18" font-weight="700" fill="#C85A32">Derar Ramadan's GitHub Stats</text>
+  <text x="25" y="88" font-family="'Segoe UI', -apple-system, BlinkMacSystemFont, 'Inter', Arial, sans-serif" font-size="26" font-weight="800" fill="#1E1E1E">1,476</text>
+  <text x="25" y="106" font-family="'Segoe UI', -apple-system, BlinkMacSystemFont, 'Inter', Arial, sans-serif" font-size="12" fill="#6B655C">Total Contributions (last year)</text>
+  <text x="258" y="88" font-family="'Segoe UI', -apple-system, BlinkMacSystemFont, 'Inter', Arial, sans-serif" font-size="26" font-weight="800" fill="#1E1E1E">57</text>
+  <text x="258" y="106" font-family="'Segoe UI', -apple-system, BlinkMacSystemFont, 'Inter', Arial, sans-serif" font-size="12" fill="#6B655C">Total Commits (last year)</text>
+  <text x="25" y="152" font-family="'Segoe UI', -apple-system, BlinkMacSystemFont, 'Inter', Arial, sans-serif" font-size="26" font-weight="800" fill="#1E1E1E">80</text>
+  <text x="25" y="170" font-family="'Segoe UI', -apple-system, BlinkMacSystemFont, 'Inter', Arial, sans-serif" font-size="12" fill="#6B655C">Public Repositories</text>
+  <text x="258" y="152" font-family="'Segoe UI', -apple-system, BlinkMacSystemFont, 'Inter', Arial, sans-serif" font-size="26" font-weight="800" fill="#1E1E1E">0</text>
+  <text x="258" y="170" font-family="'Segoe UI', -apple-system, BlinkMacSystemFont, 'Inter', Arial, sans-serif" font-size="12" fill="#6B655C">Total Stars Earned</text>
+</svg>
