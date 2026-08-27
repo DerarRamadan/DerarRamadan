@@ -37,10 +37,21 @@ jobs:
             dist/snake.svg?color_snake=%23C85A32&color_dots=%23EFECE5,%23E0C5B2,%23D28C64,%23C85A32,%23A04020
             dist/snake-dark.svg?color_snake=%23F5F2EB&color_dots=%231B1F24,%233A2A20,%236B3A24,%23C85A32,%23E8946B
 
+      # self-hosted stat cards — no third-party image service (github-readme-stats / demolab
+      # keep going down). Node script fetches the GitHub API directly and renders SVGs in
+      # the Atelier Zero palette into the same dist/ the next step publishes.
+      - name: generate stat cards
+        run: node scripts/gen-cards.mjs
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
       # push the generated SVGs to the `output` branch
       # they become available at:
       #   https://raw.githubusercontent.com/DerarRamadan/DerarRamadan/output/snake.svg
       #   https://raw.githubusercontent.com/DerarRamadan/DerarRamadan/output/snake-dark.svg
+      #   https://raw.githubusercontent.com/DerarRamadan/DerarRamadan/output/stats.svg
+      #   https://raw.githubusercontent.com/DerarRamadan/DerarRamadan/output/top-langs.svg
+      #   https://raw.githubusercontent.com/DerarRamadan/DerarRamadan/output/streak.svg
       - name: push snake SVGs to the output branch
         uses: crazy-max/ghaction-github-pages@v4
         with:

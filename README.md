@@ -151,14 +151,14 @@ Active **M.Sc. AI Researcher** at the *Libyan Academy for Postgraduate Studies* 
 ### 📈 GitHub Statistics & Engineering Activity
 
 <div align="center">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=DerarRamadan&show_icons=true&theme=nord&include_all_commits=true&count_private=true&bg_color=F5F2EB&title_color=C85A32&icon_color=C85A32&text_color=1E1E1E&border_color=E2DDD5" alt="GitHub Stats" />
+  <img height="160em" src="https://raw.githubusercontent.com/DerarRamadan/DerarRamadan/output/stats.svg" alt="GitHub Stats — self-hosted, refreshed daily" />
   &nbsp;
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DerarRamadan&layout=compact&theme=nord&hide=html,css&bg_color=F5F2EB&title_color=C85A32&text_color=1E1E1E&border_color=E2DDD5" alt="Top Languages" />
+  <img height="160em" src="https://raw.githubusercontent.com/DerarRamadan/DerarRamadan/output/top-langs.svg" alt="Most Used Languages — self-hosted, refreshed daily" />
 </div>
 
 <div align="center">
   <br/>
-  <img src="https://streak-stats.demolab.com/?user=DerarRamadan&theme=nord&background=F5F2EB&ring=C85A32&fire=C85A32&currStreakNum=1E1E1E&currStreakLabel=C85A32&sideNums=1E1E1E&sideLabels=6B655C&dates=8C857B&border=E2DDD5" alt="GitHub Streak Stats" />
+  <img src="https://raw.githubusercontent.com/DerarRamadan/DerarRamadan/output/streak.svg" alt="GitHub Streak Stats — self-hosted, refreshed daily" />
 </div>
 
 ---
