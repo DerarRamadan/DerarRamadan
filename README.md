@@ -1,16 +1,13 @@
 <div align="center">
 
-  <!-- Editorial Topbar Strip -->
-  <p align="center">
-    <code><b>VOL. 01 / CAREER ISSUE</b></code> &nbsp;·&nbsp; 
-    <code><b>TRIPOLI, LY (32.8872° N · 13.1913° E)</b></code> &nbsp;·&nbsp; 
-    <code><b>OPEN TO GLOBAL ROLES</b></code>
-  </p>
+  <!-- Editorial Topbar Strip (inside banner artwork) -->
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/banner-dark.png" />
+    <img src="./assets/banner.png" alt="Derar Ramadan (ضِرار رمضان) — Senior Full-Stack & Cross-Platform Systems Engineer · derar.ly" width="100%" />
+  </picture>
 
-  <!-- Main Identity Banner -->
-  <h1>DERAR RAMADAN (ضِرار رمضان)</h1>
   <p><b>Senior Full-Stack & Cross-Platform Systems Engineer &nbsp;·&nbsp; AI & Computer Vision Researcher</b></p>
-  <p><i>Head of Programming Department @ Ministry of Agriculture · Lead Architect @ Asas Suite</i></p>
+  <p><i>Head of Programming Department @ Ministry of Agriculture &nbsp;·&nbsp; Lead Architect @ Asas Al-Mateen Technology &amp; IT (الأساس المتين)</i></p>
 
   <!-- Interactive Badges with Portfolio Palette (#C85A32, #1E1E1E, #6B655C) -->
   <p>
@@ -28,7 +25,7 @@
 
 > *"Where I work, the connection drops — so the software can't. Ministries, clinics, and supply chains must keep running on ultra-fast local binaries in Arabic and English, cloud or no cloud."*
 
-Senior Software Engineer with **4 years of technical leadership**, currently heading software development at **Libya's Ministry of Agriculture** and lead architect at **Asas Al-Mateen**. Specializing in **offline-first monorepos**, zero-cloud desktop shells (**Rust / Tauri v2**), high-throughput **Fastify / Bun** services, and hardware-level IoT bridges.
+Senior Software Engineer with **4 years of technical leadership**, currently heading software development at **Libya's Ministry of Agriculture** and Lead Architect at **Asas Al-Mateen for Technology & IT** (الأساس المتين للتقنية وتكنولوجيا المعلومات). Specializing in **offline-first monorepos**, zero-cloud desktop shells (**Rust / Tauri v2**), high-throughput **Fastify / Bun** services, and hardware-level IoT bridges.
 
 Active **M.Sc. AI Researcher** at the *Libyan Academy for Postgraduate Studies* (**Ranked 1st in Entrance Exams**), investigating **Vision-First RAG**, **GFC-R Visual Feedback**, and **Optical Context Compression** (achieving 90–95% token savings while preserving document geometry).
 
@@ -56,6 +53,34 @@ Active **M.Sc. AI Researcher** at the *Libyan Academy for Postgraduate Studies* 
   </tr>
 </table>
 </div>
+
+---
+
+### 📦 Flagship Enterprise Monorepos
+
+#### 1. 🏥 Asas Enterprise Suite (`@asas/*` — 16 Packages)
+> **Medical ERP, Biometric Attendance, Vault Management & Remittance Core**
+> *Flagship product line of **Asas Al-Mateen for Technology & IT** — الأساس المتين للتقنية وتكنولوجيا المعلومات*
+
+[![Case Study](https://img.shields.io/badge/CASE_STUDY-asas--suite--showcase-C85A32?style=flat-square&logo=github&logoColor=white)](https://github.com/DerarRamadan/asas-suite-showcase)
+[![Live Apps](https://img.shields.io/badge/SOURCE-asas--store--final-1E1E1E?style=flat-square&logo=github&logoColor=white)](https://github.com/DerarRamadan/asas-store-final)
+[![Sink Medical](https://img.shields.io/badge/SOURCE-sink--medical--services-6B655C?style=flat-square&logo=github&logoColor=white)](https://github.com/DerarRamadan/sink-medical-services)
+
+* **Polyglot Desktop Core**: Powered by **Rust & Tauri v2** with WMI hardware fingerprinting, AES-256-GCM licensing, and zero-config Tokio UDP LAN auto-discovery (`:5757`).
+* **Ultra-Low Latency Backend**: High-throughput **Fastify 5 / Bun** application server with 3-tier architecture (Route → Service → Repository) and dual-dialect Drizzle ORM (`Better-SQLite3 WAL` ⇄ `PostgreSQL`).
+* **Native Hardware Drivers**: Custom ESC/POS thermal printing engine featuring Arabic 1-bit glyph shaper & rasterizer, cash drawer triggers, and live ZKTeco ADMS biometric punch ingestion.
+* **7 Vertical Products**: *Sink Medical Services (EHR/EMR)*, *Fingerprint Manager (HR)*, *Remittance Manager (Forex & Vault)*, *Access Guard (Security)*, *Asas Warehouse (Supply Chain)*, *Oil Shop Manager (POS)*, and *Asas Database Server (GUI)*.
+
+#### 2. 🏖️ Zwara (زوارة) Hospitality & Escrow Platform
+> **Full-Stack Vacation Rental Marketplace & Double-Entry Financial Treasury**
+
+[![Case Study](https://img.shields.io/badge/CASE_STUDY-zwara--platform--showcase-C85A32?style=flat-square&logo=github&logoColor=white)](https://github.com/DerarRamadan/zwara-platform-showcase)
+[![Portfolio](https://img.shields.io/badge/WALKTHROUGH-derar.ly-1E1E1E?style=flat-square&logo=safari&logoColor=white)](https://derar.ly)
+
+* **Monorepo Architecture**: React 19 SPA + Fastify 5.8 backend orchestrated with **Turborepo & Bun**.
+* **Financial Integrity**: Immutable double-entry wallet ledger (`credit`, `reserve`, `debit`, `release`) with ACID date-overlap locking inside transactions to prevent double-booking.
+* **Real-Time Event Engine**: Bi-directional polymorphic WebSocket bus (`WsEventFactory`) paired with Firebase Cloud Messaging (FCM) push notifications when clients are offline.
+* **Tri-Portal Surface**: Isolated guest discovery, owner calendar/payout, and super-admin verification dashboards.
 
 ---
 
@@ -107,33 +132,6 @@ Active **M.Sc. AI Researcher** at the *Libyan Academy for Postgraduate Studies* 
     </tr>
   </tbody>
 </table>
-
----
-
-### 📦 Flagship Enterprise Monorepos
-
-#### 1. 🏥 Asas Enterprise Suite (`@asas/*` — 16 Packages)
-> **Medical ERP, Biometric Attendance, Vault Management & Remittance Core**
-
-[![Case Study](https://img.shields.io/badge/CASE_STUDY-asas--suite--showcase-C85A32?style=flat-square&logo=github&logoColor=white)](https://github.com/DerarRamadan/asas-suite-showcase)
-[![Live Apps](https://img.shields.io/badge/SOURCE-asas--store--final-1E1E1E?style=flat-square&logo=github&logoColor=white)](https://github.com/DerarRamadan/asas-store-final)
-[![Sink Medical](https://img.shields.io/badge/SOURCE-sink--medical--services-6B655C?style=flat-square&logo=github&logoColor=white)](https://github.com/DerarRamadan/sink-medical-services)
-
-* **Polyglot Desktop Core**: Powered by **Rust & Tauri v2** with WMI hardware fingerprinting, AES-256-GCM licensing, and zero-config Tokio UDP LAN auto-discovery (`:5757`).
-* **Ultra-Low Latency Backend**: High-throughput **Fastify 5 / Bun** application server with 3-tier architecture (Route → Service → Repository) and dual-dialect Drizzle ORM (`Better-SQLite3 WAL` ⇄ `PostgreSQL`).
-* **Native Hardware Drivers**: Custom ESC/POS thermal printing engine featuring Arabic 1-bit glyph shaper & rasterizer, cash drawer triggers, and live ZKTeco ADMS biometric punch ingestion.
-* **7 Vertical Products**: *Sink Medical Services (EHR/EMR)*, *Fingerprint Manager (HR)*, *Remittance Manager (Forex & Vault)*, *Access Guard (Security)*, *Asas Warehouse (Supply Chain)*, *Oil Shop Manager (POS)*, and *Asas Database Server (GUI)*.
-
-#### 2. 🏖️ Zwara (زوارة) Hospitality & Escrow Platform
-> **Full-Stack Vacation Rental Marketplace & Double-Entry Financial Treasury**
-
-[![Case Study](https://img.shields.io/badge/CASE_STUDY-zwara--platform--showcase-C85A32?style=flat-square&logo=github&logoColor=white)](https://github.com/DerarRamadan/zwara-platform-showcase)
-[![Portfolio](https://img.shields.io/badge/WALKTHROUGH-derar.ly-1E1E1E?style=flat-square&logo=safari&logoColor=white)](https://derar.ly)
-
-* **Monorepo Architecture**: React 19 SPA + Fastify 5.8 backend orchestrated with **Turborepo & Bun**.
-* **Financial Integrity**: Immutable double-entry wallet ledger (`credit`, `reserve`, `debit`, `release`) with ACID date-overlap locking inside transactions to prevent double-booking.
-* **Real-Time Event Engine**: Bi-directional polymorphic WebSocket bus (`WsEventFactory`) paired with Firebase Cloud Messaging (FCM) push notifications when clients are offline.
-* **Tri-Portal Surface**: Isolated guest discovery, owner calendar/payout, and super-admin verification dashboards.
 
 ---
 
